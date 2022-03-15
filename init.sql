@@ -22,7 +22,6 @@ CREATE TABLE employees (
   first_name      VARCHAR(32) NOT NULL,
   last_name       VARCHAR(32) NOT NULL,
   position        VARCHAR(32) NOT NULL,
-  level           INTEGER(32) NOT NULL,
   PRIMARY KEY     ( employee_id )
 );
 
