@@ -1,0 +1,6 @@
+customer_id,first_name,last_name,email_address,street_address,city,state,zip,phone
+00100,Ron,Swanson,n/a,24 Union St,Pawnee,IN,47925,574-445-3676
+00200,Tom,Haverford,tommy1@gmail.com,36 S 17th Ave,Indianapolis,IN,46107,463-332-4577
+00300,Ann,Perkins,ann.perkins@outlook.com,355 Brewer St,Greenwood,IN,46142,574-998-6673
+00400,April,Ludgate,april33@gmail.com,93 Market St,Southport,IN,46227,576-664-2289
+00500,Chris,Traeger,chris.traeger@gmail.com,201 N Randolph St,Indianapolis,IN,46201,463-778-3344
