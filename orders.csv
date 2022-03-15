@@ -1,5 +1,5 @@
 order_id,quantity,payment_method,total,style_id,customer_id,employee_id
-90010,2,Credit,200.00,10010,,00200,103
+90010,2,Credit,200.00,10010,00200,103
 90011,3,Cash,195.00,10040,00400,102
 90012,1,Credit,160.00,10030,00500,104
 90013,2,Credit,380.00,10050,00300,105
