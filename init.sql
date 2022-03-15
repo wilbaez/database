@@ -21,8 +21,8 @@ CREATE TABLE employees (
   employee_id     INTEGER NOT NULL,
   first_name      VARCHAR(32) NOT NULL,
   last_name       VARCHAR(32) NOT NULL,
-  position   	  VARCHAR(32) NOT NULL,
-  level			  INTEGER(32) NOT NULL,
+  position   	    VARCHAR(32) NOT NULL,
+  level			      INTEGER(32) NOT NULL,
   PRIMARY KEY     ( employee_id )
 );
 
@@ -38,9 +38,9 @@ CREATE TABLE inventory (
 
 CREATE TABLE orders (
   order_id        INTEGER NOT NULL,
-  quantity		  INTEGER NOT NULL,
+  quantity		    INTEGER NOT NULL,
   payment_method  VARCHAR(16) NOT NULL,
-  total			  VARCHAR(16) NOT NULL,
+  total			      VARCHAR(16) NOT NULL,
   style_id        INTEGER NOT NULL,
   customer_id     INTEGER NOT NULL,
   employee_id     INTEGER NOT NULL,
