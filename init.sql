@@ -38,9 +38,9 @@ CREATE TABLE inventory (
 
 CREATE TABLE orders (
   order_id        INTEGER NOT NULL,
-  quantity		    INTEGER NOT NULL,
+  quantity        INTEGER NOT NULL,
   payment_method  VARCHAR(16) NOT NULL,
-  total			      VARCHAR(16) NOT NULL,
+  total           VARCHAR(16) NOT NULL,
   style_id        INTEGER NOT NULL,
   customer_id     INTEGER NOT NULL,
   employee_id     INTEGER NOT NULL,
