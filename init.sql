@@ -1,7 +1,3 @@
-#Wilfredo Baez
-#Midterm Project 
-#
-
 CREATE DATABASE sneakerstore_database;
 CREATE USER order_app WITH PASSWORD 'P@ss1234';
 GRANT ALL PRIVILEGES ON DATABASE sneakerstore_database to order_app;
