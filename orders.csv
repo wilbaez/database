@@ -5,4 +5,3 @@ order_id,quantity,payment_method,total,style_id,customer_id,employee_id
 90013,2,Credit,380.00,10050,00300,105
 90014,2,Cash,420.00,10020,00100,101
 90015,1,Cash,65.00,10040,00100,101
-11111111111111111111
