@@ -1,6 +1,6 @@
-employee_id,first_name,last_name,position,level
-101,Dwight,Schrute,Store Manager,5
-102,Jim,Halpert,Assistant Store Manager,4
-103,Pam,Beesly,Sales Lead,3
-104,Andy,Bernard,Sales Associate,2
-105,Angela,Martin,Cashier,2
+employee_id,first_name,last_name,position
+101,Dwight,Schrute,Store Manager
+102,Jim,Halpert,Assistant Store Manager
+103,Pam,Beesly,Sales Lead
+104,Andy,Bernard,Sales Associate
+105,Angela,Martin,Cashier
