@@ -15,7 +15,6 @@ cur.execute("""
         AND orders.style_id=inventory.style_id
         AND order_id=%s
 """, (order_id,));
-for row in cur:
 
     print(f"Style ID:{row[6]} Brand:{row[7]} Name:{row[8]} Price Per Pair:{row[9]} Quantity:{row[10]} Total:{row[11]}")
 print(f" ")
