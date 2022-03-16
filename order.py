@@ -17,7 +17,7 @@ cur.execute("""
 """, (order_id,));
 for row in cur:
 
-print(f"Style ID:{row[6]} Brand:{row[7]} Name:{row[8]} Price Per Pair:{row[9]} Quantity:{row[10]} Total:{row[11]}")
+    print(f"Style ID:{row[6]} Brand:{row[7]} Name:{row[8]} Price Per Pair:{row[9]} Quantity:{row[10]} Total:{row[11]}")
 print(f" ")
 
 print(f"Ship to: {row[0]} {row[1]}")
